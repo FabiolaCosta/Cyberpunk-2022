@@ -1,9 +1,9 @@
 <h1 align='center'>CyberPunk 2022</h1>
 <h2>Objetivo do projeto era desenvolver um livro jogo, onde o leitor poderá escolher quais decisões tomar.</h2>
 <br>
-<img align='center' src='Storyline/imgs/print.png' />
+<img align='center' src='imgs/print.png' />
 <br>
-<img align='center' src='Storyline/imgs/print2.png' />
+<img align='center' src='imgs/print2.png' />
 <br>
 
 <h2>🎞️ Link do teaser:</h2>
