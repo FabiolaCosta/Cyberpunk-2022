@@ -168,6 +168,7 @@ section:nth-child(1) {
   margin-top: 3vh;
   margin-left: 3vw;
   font-size: 19px;
+  line-height: 30px;
 }
 
 .section-third {
